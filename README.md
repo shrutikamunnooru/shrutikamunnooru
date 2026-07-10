@@ -26,9 +26,7 @@
 
 ### About me
 
-I'm a Data Engineer with 4+ years building end-to-end data platforms — cloud lakehouses, event-driven and streaming systems, and legacy migrations at enterprise scale. Currently at **ArcBest Technologies** in Seattle, where I've cut a critical pipeline's runtime by 94%, led a 10TB+ DB2/SQL Server migration to Azure Synapse, and shipped near-real-time ingestion from 150+ logistics stations. I care about clean architecture, infrastructure automation, and pipelines that hold up in production — not just in a demo.
-
-The repositories below are hands-on builds deployed on real AWS infrastructure, each with full architecture write-ups.
+I'm a Data Engineer with 4+ years building end-to-end data platforms — cloud lakehouses, event-driven and streaming systems, and legacy migrations at enterprise scale. I care about clean architecture, infrastructure automation, and pipelines that hold up in production 
 - 🎓 M.S. Information Systems, University of Utah (GPA 3.8)
 - 📜 **Azure Data Engineer Associate (DP-203)** · Tableau Desktop Specialist
 
