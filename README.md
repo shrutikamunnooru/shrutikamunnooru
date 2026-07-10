@@ -88,12 +88,6 @@ The repositories below are hands-on builds deployed on real AWS infrastructure, 
 | **[Real-Time Bookings & Payments Pipeline](https://github.com/shrutikamunnooru/aws-realtime-pipeline-bookings-and-payment)** | Near real-time stream-stream join of booking & payment events with event-time watermarks, DLQ handling, and a Redshift warehouse — provisioned via CloudFormation. | Kinesis · Glue Streaming · Spark · Redshift · SQS |
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrutikamunnooru&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutikamunnooru&layout=compact&hide_border=true" alt="Top languages" height="160"/>
-</p>
 
 <!-- These cards are served by a free third-party service (github-readme-stats) and need no setup. Delete this section if you'd rather not use a third-party image. -->
 
