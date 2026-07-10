@@ -81,11 +81,11 @@ The repositories below are hands-on builds deployed on real AWS infrastructure, 
 ### 🚀 Featured Projects
 
 | Project | What it does | Stack |
-| --- | --- | --- |
-| **[Bedrock Retail Support Intelligence](https://github.com/shrutikamunnooru/bedrock-retail-support-intelligence-pipeline)** | An AWS-native GenAI pipeline that turns unstructured support tickets into analytics-ready data using Amazon Bedrock (enrichment, embeddings, similarity) across a medallion architecture, orchestrated end-to-end by Step Functions. | Bedrock · Glue · Lambda · Athena · Step Functions |
-| **[Real-Time Bookings & Payments Pipeline](https://github.com/shrutikamunnooru/aws-realtime-pipeline-bookings-and-payment)** | Near real-time stream-stream join of booking & payment events with event-time watermarks, DLQ handling, and a Redshift analytics warehouse — fully provisioned via CloudFormation. | Kinesis · Glue Streaming · Spark · Redshift · SQS |
-| **[S3 → Lambda Order Reporting](https://github.com/shrutikamunnooru/s3-lambda-order-reporting)** | Serverless order-reporting pipeline: an S3 upload triggers a Lambda that transforms order data and writes reports back to S3. | Lambda · S3 · Python |
-
+|---|---|---|
+| **[Banking Batch Iceberg Pipeline](https://github.com/shrutikamunnooru/aws-banking-batch-iceberg-pipeline)** | Daily banking batch data lake: validates & transforms 1M+ transactions on EMR Serverless, maintains ACID Iceberg tables with row-level `MERGE INTO` upserts, orchestrated by a 29-task Airflow DAG. | EMR Serverless · PySpark · Airflow · Iceberg · Athena |
+| **[Industrial Maintenance RAG Assistant](https://github.com/shrutikamunnooru/rag-pipeline-manufacturing-industry)** | Serverless RAG system with a live demo — turns maintenance manuals into grounded, cited Q&A using Titan embeddings, S3 Vectors semantic search, and Bedrock Nova. | Bedrock · S3 Vectors · Lambda · Titan · Nova |
+| **[Bedrock Retail Support Intelligence](https://github.com/shrutikamunnooru/bedrock-retail-support-intelligence-pipeline)** | GenAI pipeline turning unstructured support tickets into analytics-ready data via Bedrock enrichment, embeddings & similarity across a medallion architecture. | Bedrock · Glue · Lambda · Athena · Step Functions |
+| **[Real-Time Bookings & Payments Pipeline](https://github.com/shrutikamunnooru/aws-realtime-pipeline-bookings-and-payment)** | Near real-time stream-stream join of booking & payment events with event-time watermarks, DLQ handling, and a Redshift warehouse — provisioned via CloudFormation. | Kinesis · Glue Streaming · Spark · Redshift · SQS |
 ---
 
 ### 📊 GitHub Stats
