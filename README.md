@@ -34,44 +34,44 @@ I'm a Data Engineer with 4+ years building end-to-end data platforms — cloud l
 ### 🧰 Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-555?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-555?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-555?style=flat&logo=gnubash&logoColor=white)
 
 **Data Processing**
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Iceberg](https://img.shields.io/badge/Apache_Iceberg-1D9BF0?style=flat&logo=apacheiceberg&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-555?style=flat&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-555?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-555?style=flat&logo=databricks&logoColor=white)
+![Iceberg](https://img.shields.io/badge/Apache_Iceberg-555?style=flat&logo=apacheiceberg&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-555?style=flat&logo=apachekafka&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-555?style=flat&logo=pandas&logoColor=white)
 
 **Orchestration & ETL**
-![Airflow](https://img.shields.io/badge/Airflow_(MWAA)-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
-![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow_(MWAA)-555?style=flat&logo=apacheairflow&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-555?style=flat&logo=amazonaws&logoColor=white)
+![ADF](https://img.shields.io/badge/Azure_Data_Factory-555?style=flat&logo=microsoftazure&logoColor=white)
 
 **Cloud — AWS**
-![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
-![Glue](https://img.shields.io/badge/Glue-8C4FFF?style=flat&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
-![Kinesis](https://img.shields.io/badge/Kinesis-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![EMR](https://img.shields.io/badge/EMR_Serverless-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Athena](https://img.shields.io/badge/Athena-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-555?style=flat&logo=amazons3&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-555?style=flat&logo=amazonredshift&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-555?style=flat&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-555?style=flat&logo=awslambda&logoColor=white)
+![Kinesis](https://img.shields.io/badge/Kinesis-555?style=flat&logo=amazonaws&logoColor=white)
+![EMR](https://img.shields.io/badge/EMR_Serverless-555?style=flat&logo=amazonaws&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-555?style=flat&logo=amazonaws&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock-555?style=flat&logo=amazonaws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-555?style=flat&logo=amazonaws&logoColor=white)
 
 **Cloud — Azure**
-![Synapse](https://img.shields.io/badge/Synapse-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![ADLS](https://img.shields.io/badge/ADLS_Gen2-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat&logo=azurefunctions&logoColor=white)
-![Entra](https://img.shields.io/badge/Entra_ID-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Synapse](https://img.shields.io/badge/Synapse-555?style=flat&logo=microsoftazure&logoColor=white)
+![ADLS](https://img.shields.io/badge/ADLS_Gen2-555?style=flat&logo=microsoftazure&logoColor=white)
+![Functions](https://img.shields.io/badge/Azure_Functions-555?style=flat&logo=azurefunctions&logoColor=white)
+![Entra](https://img.shields.io/badge/Entra_ID-555?style=flat&logo=microsoftazure&logoColor=white)
 
 **BI & Tooling**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-555?style=flat&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-555?style=flat&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-555?style=flat&logo=tableau&logoColor=white)
 
 ---
 
