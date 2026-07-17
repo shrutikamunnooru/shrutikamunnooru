@@ -13,7 +13,7 @@
 <h1 align="center">Hi, I'm Shrutika 👋</h1>
 
 <p align="center">
-  <b>Data Engineer · 4+ years</b> · Building cloud lakehouses, streaming systems, and GenAI data pipelines on <b>AWS</b> &amp; <b>Azure</b>.
+  <b>Data Engineer · Building cloud lakehouses, streaming systems, and GenAI data pipelines on <b>AWS</b> &amp; <b>Azure</b>.
 </p>
 
 <p align="center">
