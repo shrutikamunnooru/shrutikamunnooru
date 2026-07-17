@@ -26,7 +26,7 @@
 
 ### About me
 
-I'm a Data Engineer with 4+ years building end-to-end data platforms — cloud lakehouses, event-driven and streaming systems, and legacy migrations at enterprise scale. I care about clean architecture, infrastructure automation, and pipelines that hold up in production 
+I'm a Data Engineer with strong experience in building end-to-end data platforms — cloud lakehouses, event-driven and streaming systems, and legacy migrations at enterprise scale. I care about clean architecture, infrastructure automation, and pipelines that hold up in production 
 - 🎓 M.S. Information Systems, University of Utah (GPA 3.8)
 
 ---
