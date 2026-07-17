@@ -72,6 +72,7 @@ I'm a Data Engineer with 4+ years building end-to-end data platforms — cloud l
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
 ![Power BI](https://img.shields.io/badge/Power_BI-000000?style=flat&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-000000?style=flat&logo=tableau)
+
 ---
 
 ### 🚀 Featured Projects
