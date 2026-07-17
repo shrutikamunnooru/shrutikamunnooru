@@ -43,11 +43,11 @@ I'm a Data Engineer with 4+ years building end-to-end data platforms — cloud l
 ![PySpark](https://img.shields.io/badge/PySpark-000000?style=flat&logo=apachespark)
 ![Databricks](https://img.shields.io/badge/Databricks-000000?style=flat&logo=databricks)
 ![Iceberg](https://img.shields.io/badge/Apache_Iceberg-000000?style=flat&logo=apacheiceberg)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-000000?style=flat&logo=pandas&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka&logoColor=E25A1C)
+![pandas](https://img.shields.io/badge/pandas-000000?style=flat&logo=pandas&logoColor=E70488)
 
 **Orchestration & ETL**
-![Airflow](https://img.shields.io/badge/Airflow_(MWAA)-000000?style=flat&logo=apacheairflow)
+![Airflow](https://img.shields.io/badge/Airflow_(MWAA)-000000?style=flat&logo=apacheairflow&logoColor=017CEE)
 ![Step Functions](https://img.shields.io/badge/Step_Functions-000000?style=flat&logo=amazonaws&logoColor=FF9900)
 ![ADF](https://img.shields.io/badge/Azure_Data_Factory-000000?style=flat&logo=microsoftazure)
 
